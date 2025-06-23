@@ -6,7 +6,7 @@
 - 音樂分類 source code: `music classification` 資料夾  
 - 音樂生成 source code: `music generation` 資料夾
 - `Classification Accuracy`、`Confusion Matrix`、`Loss Curve、gtzan_spectrogram_samples` 圖片: `img` 資料夾
-- GUI使用測試音樂: `gui test music`
+- GUI使用測試音樂: `gui test music` 資料夾
 
 使用GUI:
 終端機輸入  
