@@ -16,3 +16,5 @@ cd ..
 pip install -r requirements.txt
 python main.py
 ```
+
+Classification Accuracy、Confusion Matrix、Loss Curve 圖片 : `img` 資料夾
