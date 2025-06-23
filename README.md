@@ -5,3 +5,14 @@
 
 音樂分類 source code: `music classification` 資料夾  
 音樂生成 source code: `music generation` 資料夾
+
+使用GUI:
+終端機輸入  
+```bash
+python -m venv venv
+cd .\.venv\
+.\Scripts\activate 
+cd ..
+pip install -r requirements.txt
+python main.py
+```
